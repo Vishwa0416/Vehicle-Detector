@@ -17,10 +17,6 @@ This is an AI-powered image analysis tool built using **YOLOv8** and **Streamlit
 * [OpenCV](https://opencv.org/)
 * [Python](https://www.python.org/)
 
-## 📸 Demo
-
-* Upload any image with vehicles and get real-time object detection with bounding boxes and labels.
-
 ## 🤝 Contributions
 
 * Contributions, feedback, and feature requests are welcome! Feel free to fork the project, submit issues, or open pull requests.
